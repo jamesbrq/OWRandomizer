@@ -1,0 +1,271 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (source.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  arrays.cpp
+  common.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(771,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(791,3): error C2371: 'ttyd::common::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(771,3): message : see declaration of 'ttyd::common::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(791,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(798,3): error C2371: 'ttyd::common::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(771,3): message : see declaration of 'ttyd::common::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(798,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(12,77): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'const char *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(13,73): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'ttyd::common::ItemData *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(15,77): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'ttyd::common::AttackParams *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(17,77): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'ttyd::common::AttackParams *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(18,77): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'ttyd::common::AttackParams *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(19,77): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'ttyd::common::AttackParams *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(20,77): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'ttyd::common::AttackParams *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(22,49): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'ttyd::common::AttackParams *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(24,49): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'ttyd::common::AttackParams *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(26,49): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'ttyd::common::AttackParams *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(28,49): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'ttyd::common::AttackParams *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(29,71): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'int8_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(30,71): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'int8_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(31,72): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(32,72): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(33,72): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(34,72): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(35,72): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(48,60): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'char **' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(58,57): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'char **' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(62,58): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'char **' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\common.cpp(67,77): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'char **' of greater size
+  console.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(15,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(15,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(20,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(25,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(25,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\util.h(28,32): warning C4312: 'type cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\mario.h(116,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\mario.h(118,30): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\dispdrv.h(34,18): error C2065: '__packed__': undeclared identifier
+  con_mario.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\util.h(28,32): warning C4312: 'type cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(15,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(15,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(20,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(25,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(25,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\mario.h(116,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\mario.h(118,30): error C2607: static assertion failed
+  con_perf.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\util.h(28,32): warning C4312: 'type cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(15,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(15,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(20,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(25,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(25,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\con_perf.cpp(71): warning C4311: 'reinterpret_cast': pointer truncation from 'void *' to 'uint32_t'
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\con_perf.cpp(99,43): warning C4311: 'reinterpret_cast': pointer truncation from 'gc::os::ChunkInfo *' to 'uint32_t'
+  con_seq.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\util.h(28,32): warning C4312: 'type cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(15,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(15,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(20,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(25,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(25,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\seqdrv.h(29,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\database.h(11,18): error C2065: '__packed__': undeclared identifier
+  cxx.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\cxx.cpp(3,25): error C2039: 'size_t': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cstdint(21,1): message : see declaration of 'std'
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\cxx.cpp(7,27): error C2039: 'size_t': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\cstdint(21,1): message : see declaration of 'std'
+  mod.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\util.h(28,32): warning C4312: 'type cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(15,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(15,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(20,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(25,3): error C2371: 'gc::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(10,3): message : see declaration of 'gc::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\types.h(25,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\dispdrv.h(34,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\seqdrv.h(29,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\mario.h(116,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\mario.h(118,30): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\database.h(11,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(19,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(21,31): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(47,3): error C2371: 'ttyd::npcdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(19,3): message : see declaration of 'ttyd::npcdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(47,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(49,43): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(73,3): error C2371: 'ttyd::npcdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(19,3): message : see declaration of 'ttyd::npcdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(73,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(75,37): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(197,3): error C2371: 'ttyd::npcdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(19,3): message : see declaration of 'ttyd::npcdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(197,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(199,32): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(207,3): error C2371: 'ttyd::npcdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(19,3): message : see declaration of 'ttyd::npcdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(207,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(227,3): error C2371: 'ttyd::npcdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(19,3): message : see declaration of 'ttyd::npcdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(227,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(235,3): error C2371: 'ttyd::npcdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(19,3): message : see declaration of 'ttyd::npcdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(235,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(249,3): error C2371: 'ttyd::npcdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(19,3): message : see declaration of 'ttyd::npcdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(249,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(251,46): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(282,3): error C2371: 'ttyd::npcdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(19,3): message : see declaration of 'ttyd::npcdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(282,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\npcdrv.h(284,32): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(23,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(40,3): error C2371: 'ttyd::envdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(23,3): message : see declaration of 'ttyd::envdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(40,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(42,35): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(57,3): error C2371: 'ttyd::envdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(23,3): message : see declaration of 'ttyd::envdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(57,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(104,3): error C2371: 'ttyd::envdrv::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(23,3): message : see declaration of 'ttyd::envdrv::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(104,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\envdrv.h(106,31): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evtmgr.h(67,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evtmgr.h(69,32): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evtmgr.h(79,3): error C2371: 'ttyd::evtmgr::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evtmgr.h(67,3): message : see declaration of 'ttyd::evtmgr::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evtmgr.h(79,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evtmgr.h(81,31): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_npc.h(31,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_npc.h(33,36): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(16,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(18,46): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(24,3): error C2371: 'ttyd::evt_shop::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(16,3): message : see declaration of 'ttyd::evt_shop::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(24,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(45,3): error C2371: 'ttyd::evt_shop::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(16,3): message : see declaration of 'ttyd::evt_shop::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(45,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(47,46): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(54,3): error C2371: 'ttyd::evt_shop::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(16,3): message : see declaration of 'ttyd::evt_shop::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_shop.h(54,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_bero.h(70,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\evt_bero.h(72,32): error C2607: static assertion failed
+  OWR.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\item_data.h(398,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\item_data.h(400,32): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(771,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(791,3): error C2371: 'ttyd::common::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(771,3): message : see declaration of 'ttyd::common::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(791,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(798,3): error C2371: 'ttyd::common::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(771,3): message : see declaration of 'ttyd::common::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\common_types.h(798,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\seqdrv.h(29,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\event.h(23,18): error C2065: 'packed': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\event.h(26,50): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\event.h(39,3): error C2371: 'ttyd::event::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\event.h(23,3): message : see declaration of 'ttyd::event::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\event.h(39,18): error C2065: 'packed': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\ttyd\event.h(42,45): error C2607: static assertion failed
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\OWR.cpp(89,56): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'char *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\OWR.cpp(130,75): warning C4312: 'reinterpret_cast': conversion from 'unsigned int' to 'uint32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\OWR.cpp(180,22): warning C4553: '==': result of expression not used; did you intend '='?
+  patch.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\patch.cpp(11,51): warning C4311: 'reinterpret_cast': pointer truncation from 'void *' to 'uint32_t'
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\patch.cpp(12,43): warning C4311: 'reinterpret_cast': pointer truncation from 'void *' to 'uint32_t'
+  rel.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(4,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(4,16): error C3861: 'section': identifier not found
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(4,37): error C2062: type 'void (__cdecl *)(void)' unexpected
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(5,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(5,1): error C2374: '__attribute__': redefinition; multiple initialization
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(4,1): message : see declaration of '__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(5,16): error C3861: 'section': identifier not found
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(5,37): error C2062: type 'void (__cdecl *)(void)' unexpected
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(6,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(6,1): error C2374: '__attribute__': redefinition; multiple initialization
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(4,1): message : see declaration of '__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(6,16): error C3861: 'section': identifier not found
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(6,37): error C2062: type 'void (__cdecl *)(void)' unexpected
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(7,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(7,1): error C2374: '__attribute__': redefinition; multiple initialization
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(4,1): message : see declaration of '__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(7,16): error C3861: 'section': identifier not found
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(7,37): error C2062: type 'void (__cdecl *)(void)' unexpected
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(24,28): error C2065: '_ctors_start': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(24,50): error C2065: '_ctors_end': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(36,28): error C2065: '_dtors_start': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\rel.cpp(36,50): error C2065: '_dtors_end': undeclared identifier
+  util.cpp
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(20,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,3): error C2371: 'gc::os::__attribute__': redefinition; different basic types
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(13,3): message : see declaration of 'gc::os::__attribute__'
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\gc\os.h(69,18): error C2065: '__packed__': undeclared identifier
+G:\TTYD\ttyd-OWRandomizer\source\rel\include\util.h(28,32): warning C4312: 'type cast': conversion from 'unsigned int' to 'int32_t *' of greater size
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\util.cpp(9,1): error C2556: 'char *strstr(const char *,const char *)': overloaded function differs only by return type from 'const char *strstr(const char *,const char *)'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_string.h(82,38): message : see declaration of 'strstr'
+G:\TTYD\ttyd-OWRandomizer\source\rel\source\util.cpp(8,7): error C2373: 'strstr': redefinition; different type modifiers
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vcruntime_string.h(82,38): message : see declaration of 'strstr'
+  Generating Code...
