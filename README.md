@@ -1,2 +1,1 @@
-# ttyd-OWRandomizer
- Open-world randomizer for Paper Mario: TTYD
+Experimental TTYD mod environment
